@@ -1,4 +1,4 @@
-Welcome to Doc3d's documentation!
+Documentation des outils 3D
 =================================
 
 .. toctree::
